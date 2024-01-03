@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Travel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Travel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\css\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\about1.jpg",
+      "PackagePath": "staticwebassets\\img\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\about2.jpg",
+      "PackagePath": "staticwebassets\\img\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\daraimg.jpg",
+      "PackagePath": "staticwebassets\\img\\daraimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\data.jpg",
+      "PackagePath": "staticwebassets\\img\\data.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\discover1.jpg",
+      "PackagePath": "staticwebassets\\img\\discover1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\discover2.jpg",
+      "PackagePath": "staticwebassets\\img\\discover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\discover3.jpg",
+      "PackagePath": "staticwebassets\\img\\discover3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\discover4.jpg",
+      "PackagePath": "staticwebassets\\img\\discover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\experience1.jpg",
+      "PackagePath": "staticwebassets\\img\\experience1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\experience2.jpg",
+      "PackagePath": "staticwebassets\\img\\experience2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\home1.jpg",
+      "PackagePath": "staticwebassets\\img\\home1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\home2.jpg",
+      "PackagePath": "staticwebassets\\img\\home2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\pexels-szelei-robert-1482193.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-szelei-robert-1482193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\place1.jpg",
+      "PackagePath": "staticwebassets\\img\\place1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\place2.jpg",
+      "PackagePath": "staticwebassets\\img\\place2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\place3.jpg",
+      "PackagePath": "staticwebassets\\img\\place3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\place4.jpg",
+      "PackagePath": "staticwebassets\\img\\place4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\place5.jpg",
+      "PackagePath": "staticwebassets\\img\\place5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\sponsors1.png",
+      "PackagePath": "staticwebassets\\img\\sponsors1.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\sponsors2.png",
+      "PackagePath": "staticwebassets\\img\\sponsors2.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\sponsors3.png",
+      "PackagePath": "staticwebassets\\img\\sponsors3.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\sponsors4.png",
+      "PackagePath": "staticwebassets\\img\\sponsors4.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\img\\sponsors5.png",
+      "PackagePath": "staticwebassets\\img\\sponsors5.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\about1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\about2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\daraimg.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\daraimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\data.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\data.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\discover1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\discover1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\discover2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\discover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\discover3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\discover3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\discover4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\discover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\experience1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\experience1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\experience2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\experience2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\lib\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\home1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\home1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\home2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\home2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\pexels-szelei-robert-1482193.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\pexels-szelei-robert-1482193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\place1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\place1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\place2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\place2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\place3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\place3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\place4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\place4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\place5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\place5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\sponsors1.png",
+      "PackagePath": "staticwebassets\\lib\\img\\sponsors1.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\sponsors2.png",
+      "PackagePath": "staticwebassets\\lib\\img\\sponsors2.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\sponsors3.png",
+      "PackagePath": "staticwebassets\\lib\\img\\sponsors3.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\sponsors4.png",
+      "PackagePath": "staticwebassets\\lib\\img\\sponsors4.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\img\\sponsors5.png",
+      "PackagePath": "staticwebassets\\lib\\img\\sponsors5.png"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\lib\\video\\video.mp4",
+      "PackagePath": "staticwebassets\\lib\\video\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Shubham\\Documents\\AWP-CC\\Project\\Travel\\wwwroot\\video\\video.mp4",
+      "PackagePath": "staticwebassets\\video\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Travel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Travel.props",
+      "PackagePath": "build\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Travel.props",
+      "PackagePath": "buildMultiTargeting\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Travel.props",
+      "PackagePath": "buildTransitive\\Travel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

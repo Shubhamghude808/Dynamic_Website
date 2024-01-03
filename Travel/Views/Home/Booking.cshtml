@@ -1,0 +1,141 @@
+﻿@model Consult.Models.UserModel
+
+@{
+    ViewData["Title"] = "Booking";
+}
+<!--==================== HOME ====================-->
+<section class="home" id="home">
+    <img src="~/lib/img/pexels-szelei-robert-1482193.jpg" alt="" class="home__img" >
+
+    <div class="home__container container grid">
+
+        <div class="home__info1">
+            <div class="container">
+                <div class="row gutters">
+
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <form asp-action="Booking">
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <h6 class="mb-2 text-primary">Personal Details</h6>
+                                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="fullName">Full Name</label>
+                                            <input asp-for="Name" type="text" class="form-control" id="fullName" placeholder="Enter full name" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="eMail">Email</label>
+                                            <input asp-for="Email" type="email" class="form-control" id="eMail" placeholder="Enter email ID" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="phone">Phone</label>
+                                            <input asp-for="Phone" maxlength="11" pattern="[0-9]{11}" type="tel" class="form-control" id="phone" placeholder="Enter phone number" required>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="phone">Destination</label><br />
+                                            <select title="Destination" class="form-control" id="destination" required asp-for="Place">
+                                            <option >Select the Destination</option>
+                                            <option value="Bali">Bali</option>
+                                            <option value="Hawaii">Hawaii</option>
+                                            <option value="Bora-Bora">Bora-Bora</option>
+                                            <option value="Whitehvn">Whitehvn</option>
+                                            <option value="Hvar">Hvar</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <h6 class="mt-3 mb-2 text-primary">Address</h6>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="Street">Street</label>
+                                            <input asp-for="Street" type="text" class="form-control" id="Street" placeholder="Enter Street" >
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="ciTy">City</label>
+                                            <input asp-for="City" type="text" class="form-control" id="ciTy" placeholder="Enter City">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="sTate">State</label>
+                                            <input asp-for="State" type="text" class="form-control" id="sTate" placeholder="Enter State">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="zIp">Zip Code</label>
+                                            <input asp-for="Zipcode" type="number" class="form-control" id="zIp" placeholder="Zip Code" min="1">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <h6 class="mt-3 mb-2 text-primary">Book Place</h6>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="members">No. of Members</label>
+                                            <input asp-for="Member" type="number" min="1" max="100" required class="form-control" id="member" placeholder="Enter No. of Members">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="rooms">No. of Rooms</label>
+                                            <input asp-for="Room" type="number" min="0" max="30" class="form-control" id="room" placeholder="Enter No. of Rooms" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="from">From</label>
+                                            <input asp-for="From" type="date" class="form-control" id="from" placeholder="Enter From Date" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group">
+                                        <label for="to">To </label>
+                                            <input asp-for="To" type="date" class="form-control" id="to" placeholder="Enter To Date" required>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <br />
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <div class="text-right">
+                                        <button type="reset" id="reset" name="reset" class="btn btn-secondary">Reset</button>
+                                        <button type="submit" id="submit" name="submit" class="btn btn-primary" onclick="comparedate">ConFirm</button>
+                                    </div>
+                                </div>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</section>
+
+

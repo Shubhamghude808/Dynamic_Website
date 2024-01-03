@@ -1,0 +1,606 @@
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\appsettings.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.staticwebassets.runtime.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.exe
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.deps.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.runtimeconfig.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Consult.pdb
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.AssemblyInfoInputs.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.AssemblyInfo.cs
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.csproj.CoreCompileInputs.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.RazorAssemblyInfo.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.RazorAssemblyInfo.cs
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets\msbuild.Consult.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets\msbuild.build.Consult.props
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Consult.props
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Consult.props
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\scopedcss\bundle\Consult.styles.css
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\scopedcss\projectbundle\Consult.bundle.scp.css
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\refint\Consult.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.pdb
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.genruntimeconfig.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\ref\Consult.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\MessagePack.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.csproj.AssemblyReference.cache
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Login.cshtml.rz.scp.css
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\obj\Debug\net6.0\Consult.csproj.CopyComplete
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\FirebaseAdmin.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\FireSharp.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\Owin.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PARTH KAKADIA\Desktop\NM Practical\AWP\mini\Consult\Consult\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\appsettings.json
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.staticwebassets.runtime.json
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.exe
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.deps.json
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.runtimeconfig.json
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Consult.pdb
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\FirebaseAdmin.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\FireSharp.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\Owin.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Shubham\Documents\Project\Consult\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.csproj.AssemblyReference.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.AssemblyInfoInputs.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.AssemblyInfo.cs
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.RazorAssemblyInfo.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.RazorAssemblyInfo.cs
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets\msbuild.Consult.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets\msbuild.build.Consult.props
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Consult.props
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Consult.props
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Login.cshtml.rz.scp.css
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\scopedcss\bundle\Consult.styles.css
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\scopedcss\projectbundle\Consult.bundle.scp.css
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.csproj.CopyComplete
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.dll
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\refint\Consult.dll
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.pdb
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\Consult.genruntimeconfig.cache
+C:\Users\Shubham\Documents\Project\Consult\obj\Debug\net6.0\ref\Consult.dll
